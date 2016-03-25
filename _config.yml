@@ -1,7 +1,7 @@
 name: Two Macs
 favicon: null
-layout_spectrum: 0.4997387914918363
-typography_spectrum: 0.15959067083895206
+layout_spectrum: 0
+typography_spectrum: 0.35798
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.300263803685084
+  brandStrength: 0.25
   lightness: 0.7759002153761685
   saturation: 0.45440382487140596
   rhythmicContrast: 0.8918398006353527
